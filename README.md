@@ -23,6 +23,21 @@ Start API backend
 uvicorn main:app --reload
 ```
 
+Optional! Build API backend with docker
+
+```bash
+docker build -t youpy-srv .
+```
+
+Run a container off of build image
+
+```bash
+sudo docker run -itd -p 8000:8000 youpy-srv  
+```
+
+The API backend will now be available at 127.0.0.1:8000
+
+
 In a new terminal navigate to youpy-cli repository and start the client
 
 ```bash
