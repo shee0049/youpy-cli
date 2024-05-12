@@ -3,6 +3,8 @@ youpy-cli is a command line application written in python to provide an interfac
 
 This project was created for my own personal use case.  But feel free to send a [pull request](https://github.com/shee0049/youpy-cli/pulls) if you would like to add anything.
 
+[youpy-cli.webm](https://github.com/shee0049/youpy-cli/assets/9749577/a62e1932-9f2f-4cfc-a83e-63a127cae7cf)
+
 ### Installation
 
 Donload required dependencies
