@@ -8,7 +8,7 @@ This project was created for my own personal use case.  But feel free to send a 
 Donload required dependencies
 
 ```bash
-pip install mpv-devel mpv-libs mpv yt-dlp fastapi[all] selenium
+pip install mpv-devel mpv-libs mpv yt-dlp fastapi[all] selenium rich
 ```
 
 Clone this repository
