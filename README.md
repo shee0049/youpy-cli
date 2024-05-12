@@ -1,7 +1,5 @@
 # youpy-cli
-youpy-cli is a command line application written in python to provide a minimal command line interface for searching and playing youtube videos with [mpv](https://mpv.io/).  
-
-youpy-cli utilizes a backend API built with [FastAPI](https://fastapi.tiangolo.com/) to scrape and query videos with [selenium](https://www.selenium.dev/) and return the query results as json back to the client.
+youpy-cli is a command line application written in python to provide a minimal command line interface for searching and playing youtube videos with [mpv](https://mpv.io/).  The application integrates a backend API built with [FastAPI](https://fastapi.tiangolo.com/) to scrape and query videos with [selenium](https://www.selenium.dev/) and return the query results as json back to the client. 
 
 This project was created for my own personal use.  But feel free to send a [pull request](https://github.com/shee0049/youpy-cli/pulls) if you would like to add new features.
 
