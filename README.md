@@ -10,7 +10,7 @@ This project was created for my own personal use.  But feel free to send a [pull
 Donload required dependencies
 
 ```bash
-pip install mpv-devel mpv-libs mpv yt-dlp fastapi[all] selenium rich
+pip install -r requirements.txt
 ```
 
 Clone this repository
